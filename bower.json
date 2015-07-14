@@ -1,6 +1,6 @@
 {
   "name": "ember-c3",
-  "version": "0.1.4.1",
+  "version": "0.1.5",
   "dependencies": {
     "ember": "^1.4.0",
     "c3": ">=0.1.43-0 < 1.0.0-0"
